@@ -1,0 +1,1 @@
+En este proyecto se trabajo con Pycharm para realizar pruebas automatizadas para las funciones de la aplicación URBAN GROCERS
