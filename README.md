@@ -1,5 +1,5 @@
 En este proyecto se busco validar la creación de nuevos usuarios y su correcta inserción en la base de datos, así como la conexión con el backend de la aplicación URBAN GROCERS
-Se realizaron pruebas automatizadas utilizando Pycharm, Python y Selenium como tecnologías para el desarrollo y ejecución de las pruebas.
+
 Se validó la creción de nuevos usuarios.
 
 Se utilizaron Funciones de pruebas positivas:
@@ -11,7 +11,10 @@ Se crearon funciones para validar que los parámetros fueran correctos, y que en
 <img width="1027" height="614" alt="image" src="https://github.com/user-attachments/assets/9d4105cf-3687-4349-bd49-41b971736f1e" />
 
 
-
-
-
-En este proyecto se trabajo con Pycharm para realizar pruebas automatizadas para las funciones de la aplicación URBAN GROCERS
+En este proyecto se realizaron pruebas automatizadas para las funciones de la aplicación URBAN GROCERS.
+Las tecnologías usadas fueron:
+-  Selenium
+-  Python
+-  Pycharm
+-  Postman
+-  SQL
